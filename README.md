@@ -39,16 +39,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   3 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 hrs 5 mins        █████████████████████░░░░   84.32 % 
-VS Code                  34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/04/2024 01:10:37 UTC
+ Last Updated on 09/04/2024 01:09:37 UTC
 <!--END_SECTION:waka-->
